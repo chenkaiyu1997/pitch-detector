@@ -1,0 +1,28 @@
+{
+  "name": "pitch-detector",
+  "version": "0.1.0",
+  "description": "A more robust pitch detector using YIN algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkaiyu1997/pitch-detector.git"
+  },
+  "keywords": [
+    "pitch",
+    "detection",
+    "YIN",
+    "audio",
+    "key",
+    "music",
+    "sing"
+  ],
+  "author": "Kyle Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenkaiyu1997/pitch-detector/issues"
+  },
+  "homepage": "https://github.com/chenkaiyu1997/pitch-detector#readme"
+}
